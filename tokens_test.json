@@ -1021,6 +1021,10 @@
     "yellow prueba": {
       "value": "#fff85b",
       "type": "color"
+    },
+    "rosita cegador": {
+      "value": "#fc5bff",
+      "type": "color"
     }
   },
   "$themes": [],
